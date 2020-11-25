@@ -1,0 +1,12 @@
+annie -o ./ -O "be42404634819bfa52773a15953af31f" http://www.iqiyi.com/v_19rrd4b718.html;
+annie -o ./ -O "5c91a822577ca30c3e7c75a66617171c" http://www.iqiyi.com/v_19rrdknryo.html;
+annie -o ./ -O "713fbde4f1a4bedcc64e562b8ebe8a88" http://www.iqiyi.com/v_19rrcnm780.html;
+annie -o ./ -O "89e408cf2eb36387128db87d13b33525" http://www.iqiyi.com/v_19rrcre55w.html;
+annie -o ./ -O "af066806c5b0c1f370a56caa5b4e2de6" http://www.iqiyi.com/v_19rrc3td2o.html;
+annie -o ./ -O "cc65508bef1517e7bc0d2eb29c25ffc9" http://www.iqiyi.com/v_19rrbzw3zc.html;
+annie -o ./ -O "dc9a18d5169d65b970e800e0283a321c" http://www.iqiyi.com/v_19rrcfnr28.html;
+annie -o ./ -O "b3e0ba29d7cb55e34b48641407a21cf9" http://www.iqiyi.com/v_19rrcb8tjo.html;
+annie -o ./ -O "530de54a6a0f14f73dcc38c946172e9d" http://www.iqiyi.com/v_19rrbm8s4g.html;
+annie -o ./ -O "6dbe5ac874c9643f071c13a6b6d8206a" http://www.iqiyi.com/v_19rrbhh4y4.html;
+annie -o ./ -O "795ae0ec33bbc22a615a3eb7136f5d66" http://www.iqiyi.com/v_19rrbvntcs.html;
+annie -o ./ -O "ee3ee4e5a98c4771b0dcd4ab9d95edb5" http://www.iqiyi.com/v_19rrbq8l54.html;
